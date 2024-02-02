@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor at the School of Statistics and Management, Shanghai University of Finance and Economics, Shanghai, China. My research is mainly on statistics and econometrics, such as <mark>multivariate analysis</mark>, high-dimensional statistics, random matrix theory, and especially the applications in high-dimensional factor models with heavy-tailed data and matrix-variate data.
+I am currently an assistant professor at the School of Statistics and Management, Shanghai University of Finance and Economics, Shanghai, China. 
+
+
+My research 
+=====
+is mainly on statistics and econometrics, such as <span style="color:red;font-weight:700;font-size:20px">
+multivariate analysis</span>, <span style="color:red;font-weight:700;font-size:20px">high-dimensional statistics</span>, <span style="color:red;font-weight:700;font-size:20px">random matrix theory</span>, and especially the applications in high-dimensional <span style="color:red;font-weight:700;font-size:20px">factor models</span> with heavy-tailed data and matrix-variate data.
 
 Contact me by
 ======
