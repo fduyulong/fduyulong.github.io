@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Statistics, Fudan University, Shanghai, China, 2011-2015
-* Ph.D. in Probability and Mathematical Statistics, Fudan University, Shanghai, China, 2015-2020
+* B.S. in Statistics, Fudan University, Shanghai, China, 2015
+* Ph.D. in Probability and Mathematical Statistics, Fudan University, Shanghai, China, 2020
 * Visiting student in Statistics, University of Michigan, Ann Arbor, 2018-2019, USA
 
 Work experience
