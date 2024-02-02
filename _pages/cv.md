@@ -11,18 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in Statistics, Fudan University, 2015, Shanghai, China
-* Ph.D. in Probability and Mathematical Statistics, Fudan University, 2020, Shanghai, China
+* B.S. in Statistics, Fudan University, Shanghai, China, 2011-2015
+* Ph.D. in Probability and Mathematical Statistics, Fudan University, Shanghai, China, 2015-2020
 * Visiting student in Statistics, University of Michigan, Ann Arbor, 2018-2019, USA
 
 Work experience
 ======
-* Assistant Professor, Sep. 2022 -present, School of Statistics and Management, Shanghai University of Finance and Economics, Shanghai, China
+* Assistant Professor, School of Statistics and Management, Shanghai University of Finance and Economics, Shanghai, China, 2022-present
 
-* Postdoctoral research fellow, Sep. 2020 – Sep. 2022, Department of Statistics and Data Science, National University of Singapore, Singapore
+* Postdoctoral research fellow, Department of Statistics and Data Science, National University of Singapore, Singapore, 2020-2022
   
 Teaching
 ======
-* Statistics (undergraduate), Statistical Learning (postgraduate)
+* Statistics (undergraduate)
+* Statistical Learning (postgraduate)
   
 
