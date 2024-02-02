@@ -5,7 +5,6 @@ permalink: /pub/
 author_profile: true
 ---
 
-{% include base_path %}
 
 Factor Models
 ======
