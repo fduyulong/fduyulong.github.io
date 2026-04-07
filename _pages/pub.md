@@ -26,7 +26,7 @@ Factor Models
 
 Random Matrix Theory
 ======
-1.	**Yu, L.**, Zhao, P., & Zhou, W. (2025). Testing the number of common factors by bootstrapped sample covariance matrix in high-dimensional factor models. *Journal of the American Statistical Association*, 120(549), 448-459. <https://doi.org/10.1080/01621459.2024.2346364>
+1. **Yu, L.**, Zhao, P., & Zhou, W. (2025). Testing the number of common factors by bootstrapped sample covariance matrix in high-dimensional factor models. *Journal of the American Statistical Association*, 120(549), 448-459. <https://doi.org/10.1080/01621459.2024.2346364>
 
 1. **Yu L.**, Xie J., & Zhou W. (2023). Testing Kronecker Product Covariance Matrices for High-Dimensional Matrix-Variate Data. *Biometrika*, 110(3), 799-814. <doi: 10.1093/biomet/asac063.>
 
