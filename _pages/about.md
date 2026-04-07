@@ -19,5 +19,5 @@ multivariate analysis</span>, <span style="color:red;font-weight:700;font-size:2
 Contact me by
 ======
 * email at <yulong@mail.shufe.edu.cn>
-* for Chinese, see also my homepage at <https://ssm.sufe.edu.cn/db/17/c715a187159/page.htm>
+* for Chinese, see also my homepage at <https://ssds.sufe.edu.cn/db/17/c715a187159/page.htm>
 
