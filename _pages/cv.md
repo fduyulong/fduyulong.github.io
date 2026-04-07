@@ -16,13 +16,15 @@ Education
 
 Work experience
 ======
-* Assistant Professor, School of Statistics and Management, Shanghai University of Finance and Economics, Shanghai, China, 2022-present
+* Associate Professor, School of Statistics and Data Science, Shanghai University of Finance and Economics, Shanghai, China, 2024-present
+
+* Assistant Professor, School of Statistics and Management, Shanghai University of Finance and Economics, Shanghai, China, 2022-2024
 
 * Postdoctoral research fellow, Department of Statistics and Data Science, National University of Singapore, Singapore, 2020-2022
   
 Teaching
 ======
-* Statistics (undergraduate)
+* Statistics, Multivariate Analysis (undergraduate)
 * Statistical Learning (postgraduate)
   
 
